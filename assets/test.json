@@ -1,0 +1,267 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+      "author": "Sarah E. Needleman",
+      "title": "Twitter Reports Surprising Drop in Revenue Amid Elon Musk Fight - The Wall Street Journal",
+      "description": "The social-media company blamed the decline on advertising weakness and uncertainty related to its pending $44 billion acquisition by Elon Musk.",
+      "url": "https://www.wsj.com/articles/twitter-earnings-twtr-q2-2022-11658446426",
+      "urlToImage": "https://images.wsj.net/im-588703/social",
+      "publishedAt": "2022-07-22T12:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Dow Jones Futures: Snap Crash Hits Online Giants After Tesla Drives Market Rally Higher | Investor's Business Daily - Investor's Business Daily",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiiwFodHRwczovL3d3dy5pbnZlc3RvcnMuY29tL21hcmtldC10cmVuZC9zdG9jay1tYXJrZXQtdG9kYXkvZG93LWpvbmVzLWZ1dHVyZXMtdGVzbGEtZHJpdmVzLW1hcmtldC1yYWxseS1oaWdoZXItc25hcC1jcmFzaC1oaXRzLW9ubGluZS1naWFudHMv0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2022-07-22T12:09:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Mike Calia",
+      "title": "5 things to know before the stock market opens Friday - CNBC",
+      "description": "Here are the most important news items that investors need to start their trading day.",
+      "url": "https://www.cnbc.com/2022/07/22/5-things-to-know-before-the-stock-market-opens-friday-july-22.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107092215-1658422297291-nyss.jpg?v=1658422320&w=1920&h=1080",
+      "publishedAt": "2022-07-22T11:46:53Z",
+      "content": "Here are the most important news items that investors need to start their trading day:\r\n1. Another mixed morning for stocks\r\nTraders work on the floor of the New York Stock Exchange (NYSE), July 21, … [+4675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WPVI-TV"
+      },
+      "author": "Corey Davis",
+      "title": "Starbucks Strike: Employees at a Center City Philadelphia store refuse to open - WPVI-TV",
+      "description": "Workers of the Starbucks at 12th and Walnut streets in Center City Philadelphia are refusing to open the store Friday during a 24-hour strike.",
+      "url": "https://6abc.com/philadelphia-starbucks-strike-12th-and-walnut-streets-union-workers-united/12066745/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12066760_072222-wpvi-starbucks-strike-7am-vid.jpg?w=1600",
+      "publishedAt": "2022-07-22T11:37:30Z",
+      "content": "PHILADELPHIA (WPVI) -- Workers of the Starbucks at 12th and Walnut streets in Center City Philadelphia are refusing to open the store Friday during a 24-hour strike.The employees are making allegatio… [+1771 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Anmar Frangoul",
+      "title": "Volkswagen-backed Northvolt to develop wood-based batteries for EVs - CNBC",
+      "description": "Sweden-headquartered Northvolt recently said its first gigafactory had started commercial deliveries to European customers.",
+      "url": "https://www.cnbc.com/2022/07/22/volkswagen-backed-northvolt-to-develop-wood-based-batteries-for-evs-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107092657-1658483340986-gettyimages-94651841-pdir0664SHi_j0063JPG.jpeg?v=1658483491&w=1920&h=1080",
+      "publishedAt": "2022-07-22T10:54:43Z",
+      "content": "Northvolt will partner with Stora Enso to develop batteries that incorporate components produced using wood sourced from forests in the Nordic region.\r\nA joint development agreement between the firms… [+2925 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ryan Browne",
+      "title": "Coinbase blasts SEC over insider trading case, says none of the tokens it lists are securities - CNBC",
+      "description": "The SEC said that nine of the 25 tokens allegedly traded in the scheme were securities.",
+      "url": "https://www.cnbc.com/2022/07/22/coinbase-blasts-sec-over-insider-trading-case.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106868521-1618440974351-gettyimages-1312540547-_dsc9089.jpeg?v=1645707365&w=1920&h=1080",
+      "publishedAt": "2022-07-22T10:51:37Z",
+      "content": "Coinbase pushed back on claims from the Securities and Exchange Commission that it offers unregistered securities, following fraud charges against a former employee at the company.\r\nAn ex-Coinbase pr… [+3146 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Katrina Bishop",
+      "title": "Germany agrees to bail out energy giant Uniper as Russia squeezes gas supplies - CNBC",
+      "description": "Germany agrees to bail out Uniper with a 15-billion-euro rescue deal, as it becomes the first major casualty of Russia's natural gas squeeze.",
+      "url": "https://www.cnbc.com/2022/07/22/germany-agrees-15-billion-euro-bailout-for-gas-giant-uniper-as-russia-squeezes-supplies.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107086154-1657281921862-gettyimages-1241281200-20090101220613-99-648046.jpeg?v=1657282123&w=1920&h=1080",
+      "publishedAt": "2022-07-22T10:04:29Z",
+      "content": "Germany on Friday agreed to bail out Uniper with a 15-billion-euro ($15.24 billion) rescue deal, as the embattled energy company becomes the first major casualty of Russia's natural gas squeeze.\r\nThe… [+1442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Oliver Knight",
+      "title": "Three Arrows Capital Founders Break Their Silence, Look to Move to Dubai: Report - CoinDesk",
+      "description": "The beleaguered duo discuss how one of the most successful crypto funds went from being a prominent trading desk to owing creditors $2.8 billion.",
+      "url": "https://www.coindesk.com/business/2022/07/22/three-arrows-capital-founders-break-their-silence-look-to-move-to-dubai-report/",
+      "urlToImage": "https://www.coindesk.com/resizer/3a0qXG93ZEo76dyuvIW01cowKqc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AHAZ457LQFAAJPB7SS6F66USKM.jpg",
+      "publishedAt": "2022-07-22T09:14:00Z",
+      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Steve Goldstein",
+      "title": "Fearing a windfall tax, this oil company is cutting gasoline prices at its pumps. - MarketWatch",
+      "description": "TotalEnergies says it will cut gasoline prices by 10% in a move it says is an alternative to a windfall tax.",
+      "url": "https://www.marketwatch.com/story/fearing-a-windfall-tax-this-oil-company-is-cutting-gasoline-prices-at-all-its-pumps-11658480720",
+      "urlToImage": "https://images.mktw.net/im-588924/social",
+      "publishedAt": "2022-07-22T09:05:00Z",
+      "content": "Windfall taxes on oil companies are the talk around the world as consumers grapple with high energy costs.Frances TotalEnergies \r\n TTE,\r\n +0.13%\r\nis trying to head one off by committing to cut prices… [+877 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Sam Reynolds",
+      "title": "South Korean Prosecutors Raid Terra Co-Founder Daniel Shin's Home: Report - CoinDesk",
+      "description": "South Korean authorities are continuing their investigation into fraud allegations at the center of the Terra collapse.",
+      "url": "https://www.coindesk.com/business/2022/07/22/south-korean-prosecutors-raid-terra-co-founder-daniel-shins-home-report/",
+      "urlToImage": "https://www.coindesk.com/resizer/GRJKBZp2T-l6OMaUBnVzazHmU94=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HOIXHJ24HBETZFIF7PDPVRPROQ.jpg",
+      "publishedAt": "2022-07-22T06:03:00Z",
+      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+556 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ryan Vlastelica and Abhishek Vishnoi",
+      "title": "‘Awful’ Snap Sales Wipe $47 Billion From Social Media Stocks - Yahoo Finance",
+      "description": "(Bloomberg) -- US social-media giants shed nearly $47 billion in market value in extended trading Thursday, as disappointing revenue from Snap Inc. raised...",
+      "url": "https://finance.yahoo.com/news/meta-alphabet-knocked-down-snap-210613231.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Miqw5hu.FXZ8s3mz7HE6rQ--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/bloomberg_markets_842/aef99cfd177b6241f9b29f5244c3fd19",
+      "publishedAt": "2022-07-22T04:41:15Z",
+      "content": "(Bloomberg) -- US social-media giants shed nearly $47 billion in market value in extended trading Thursday, as disappointing revenue from Snap Inc. raised concerns about the outlook for online advert… [+1801 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Ken Martin",
+      "title": "FedEx cutting out deliveries in some markets on Sundays - Fox Business",
+      "description": "People living in more rural parts of the United States may soon have to wait longer for their deliveries after FedEx announced it is cutting back its Sunday deliveries in some areas.",
+      "url": "https://www.foxbusiness.com/markets/fedex-cutting-deliveries-markets-sundays",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/iStock-Fedex.jpg?ve=1&tl=1",
+      "publishedAt": "2022-07-22T04:28:45Z",
+      "content": "FedEx Corp is cutting back on Sunday deliveries in some low-density, rural U.S. markets.\r\nThe suspension of service will go into effect Aug. 15.\r\nThe company started Sunday deliveries after the COVID… [+1563 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Emily Bary",
+      "title": "AT&T earnings were 'actually good' despite stock selloff, says analyst - MarketWatch",
+      "description": "Beyond messy issues with cash-flow forecasting, analyst sees wireless strength and a secure dividend",
+      "url": "https://www.marketwatch.com/story/at-t-earnings-were-actually-good-despite-stock-selloff-says-analyst-11658453072",
+      "urlToImage": "https://images.mktw.net/im-320502/social",
+      "publishedAt": "2022-07-22T01:24:00Z",
+      "content": "AT&amp;T Inc.s shares fell sharply Thursday after the telecommunications giant cut its free-cash-flow forecast for the year, but one analyst said the latest report wasnt all bad. In fact, LightShed P… [+3335 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Daniel Van Boom",
+      "title": "Tesla Sold $936M of Bitcoin, Kept its Dogecoin Reserves - CNET",
+      "description": "Tesla sold 75% of its bitcoin reserves, but CEO Elon Musk says the company hasn't sold any of its Dogecoin.",
+      "url": "https://www.cnet.com/personal-finance/tesla-sold-936m-of-bitcoin-kept-its-dogecoin-reserves/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ec13e02c91d5adcd5703c1fe2c6224af40378e4e/2022/07/20/910c35be-8b94-4bc9-b0df-c9239895e6fc/gettyimages-493893234.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2022-07-22T00:44:00Z",
+      "content": "Elon Musk is an icon within crypto. That's due in large part to his association with the dogecoin meme token -- for a few months last year Musk was known as the \"Dogefather\" -- but it's also because … [+3889 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Felix Ng",
+      "title": "All ‘Ethereum killers’ will fail: Blockdaemon’s Freddy Zwanzger - Cointelegraph",
+      "description": "Blockdaemon Ethereum ecosystem lead Freddy Zwanzger doesn’t believe Ethereum’s competitors will be able to topple the key cryptocurrency from its perch.",
+      "url": "https://cointelegraph.com/news/all-ethereum-killers-will-fail-blockdaemon-s-freddy-zwanzger",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDcvMDlmYTRhZTctNmM2Ni00ZDhmLTgyZWEtNmIzOWZlOWY3OTE2LmpwZw==.jpg",
+      "publishedAt": "2022-07-22T00:37:02Z",
+      "content": "Blockdaemons Ethereum ecosystem lead Freddy Zwanzger believes Ethereum will retain its leadership position in the crypto ecosystem over the coming years due to its utility as a smart contract platfor… [+2822 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Street is underestimating Fed aggressiveness, warns Wells Fargo Securities following ECB hike - CNBC Television",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDhZLzvJB1m8",
+      "urlToImage": null,
+      "publishedAt": "2022-07-22T00:36:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Weizhen Tan",
+      "title": "Goldman Sachs on why the bear market is not over - CNBC",
+      "description": "Two factors will determine the end of the bear market, according to Goldman Sachs' Sharon Bell.",
+      "url": "https://www.cnbc.com/2022/07/22/goldman-sachs-on-why-the-bear-market-is-not-over.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107090907-NYSE-Trading-Floor-OB-Photo-220719-CC-PRESS-6.jpg?v=1658247547&w=1920&h=1080",
+      "publishedAt": "2022-07-22T00:26:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Emily Heil",
+      "title": "TikTok's Pink Sauce chef defends her viral condiment - The Washington Post",
+      "description": "The Pink Sauce that's all over TikTok had prompted questions about whether it abides by cottage-food laws and complies with food-safety standards, but its maker is pushing back.",
+      "url": "https://www.washingtonpost.com/food/2022/07/21/pink-sauce-tiktok-food-safety/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NHCKT2B6VNAC5CQW4YPVCMF4T4.jpg&w=1440",
+      "publishedAt": "2022-07-22T00:19:00Z",
+      "content": "Comment on this story\r\nThe Florida chef whose Pepto Bismol-hued condiment went viral this week with people on social media analyzing her TikToks with Zapruder-like intensity and questioning its legal… [+4836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Eleanor Terrett",
+      "title": "SEC chief faces scrutiny from GOP over progressive agenda - Fox Business",
+      "description": "If Republicans take control of Congress, they are promising to target SEC Chairman Gary Gensler and what they see as the agency enforcing a progressive agenda.",
+      "url": "https://www.foxbusiness.com/markets/sec-chief-faces-scrutiny-gop-progressive-agenda",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/06/0/0/Gary-Gensler-SEC.jpg?ve=1&tl=1",
+      "publishedAt": "2022-07-21T23:54:09Z",
+      "content": "Republicans on Capitol Hill are laying the groundwork for how they will oppose President Biden’s increasingly progressive economic agenda. They will make Wall Street’s top cop their poster child for … [+4777 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Deseret News"
+      },
+      "author": "Katie McKellar",
+      "title": "Housing market enters recession. What does that mean? - Deseret News",
+      "description": "Sales continue to fall while inventory spikes — especially in ‘bubbly’ West",
+      "url": "https://www.deseret.com/utah/2022/7/21/23273058/housing-market-enters-recession-territory-what-that-means-sales-fall-inventory-spikes-bubble-west",
+      "urlToImage": "https://deseret.brightspotcdn.com/dims4/default/121a747/2147483647/strip/true/crop/3000x1713+0+246/resize/1461x834!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2F2w_VLbPSW1nG_BnpeTIEx5kN1mI%3D%2F0x0%3A3000x2203%2F3000x2203%2Ffilters%3Afocal%281500x1102%3A1501x1103%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23891379%2Fmerlin_2929552.jpg",
+      "publishedAt": "2022-07-21T23:54:00Z",
+      "content": "If youve been paying attention to the U.S. housing market, youve likely seen words like correction and recession crop up more and more. \r\nEarlier this week, National Association of Home Builders CEO … [+7223 chars]"
+    }
+  ]
+
+}
